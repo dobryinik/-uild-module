@@ -1,2 +1,2 @@
 # OC3-build-module
-The script collects the module files in .ocmod.zip
+The script collects the module files in .ocmod.zip for Opencart3
